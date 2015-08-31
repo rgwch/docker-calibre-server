@@ -1,3 +1,3 @@
 #! /bin/bash
 
-calibre-server --port 80 --with-library /srv/calibre
+calibre-server --port 80 --auto-reload --with-library /srv/calibre
